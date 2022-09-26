@@ -14,6 +14,6 @@ From the summary data frame, we can see that the most rides and drivers are from
 ## Summary
 
 Three business recommendations
-1. Based on the fact that the rural total fares and total rides are the lowest of all city types, there may not be enough incentive for people to ride taxis in rural cities. One business recommendation could be increasing the incentive for people to take the taxis, for example, getting a discount coupon on subsequent rides after their first ride.
+1. Based on the fact that the rural total fares and total rides are the lowest of all city types, there may not be enough incentive for people to ride taxis in rural cities. One business recommendation could be increasing the incentive for people to take the taxis, for example, getting a discount coupon on subsequent rides after their first ride, as well as a referral program and contest for referrals to Pyber.
 2. Urban cities is the only area where total amount of drivers is greater than the amount of rides. That could mean there are too many drivers for the demand. A business recommendation would be to cut some drivers and therefore lowering overhead costs for the company.
 3. Based on the chart for total fare by city type per week, a business recommendation would be to target the weeks with the dips and lowest amount of fares and increase promotions, deals, and offers to incentivize people to ride.
