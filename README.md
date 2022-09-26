@@ -15,3 +15,4 @@ From the summary data frame, we can see that the most rides and drivers are from
 
 Three business recommendations
 1. Based on the fact that the rural total fares and total rides are the lowest of all city types, there may not be enough incentive for people to ride taxis in rural cities. One business recommendation could be increasing the incentive for people to take the taxis, for example, getting a discount coupon on subsequent rides after their first ride.
+2. 
