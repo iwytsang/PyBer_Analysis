@@ -10,7 +10,7 @@ As a data analyst for Pyber, a ridesharing app company, the CEO of the company h
 ### Summary DataFrame
 ![image](https://user-images.githubusercontent.com/108503112/192298177-33c66564-767b-4be8-896f-872bfd5af6ad.png)
 
-From the summary data frame above, we can see that the data is broken down into the three rows of urban, suburban and rural city types. The most rides and drivers are from the urban city type, while the least is the rural city type. This correlates with the total fares, as the more rides there are, the amount of fares. However, the azverage fare per ride and per driver is the highest in rural city and lowest in urban cities.
+From the summary data frame above, we can see that the data is broken down into the three rows of urban, suburban and rural city types. The most rides and drivers are from the urban city type, with 1,625 rides and 2,405 drivers, while the least is the rural city type, with 125 total rides and 78 total drivers. This correlates with the total fares, as the more rides there are, the amount of fares. However, the average fare per ride and per driver is the highest in rural city and lowest in urban cities.
 
 ### Multiple-line Chart
 ![image](https://user-images.githubusercontent.com/108503112/192298723-32b62b54-16f5-40c6-b903-e169d0a029d5.png)
