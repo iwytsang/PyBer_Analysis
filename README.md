@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-As a data analyst for Pyber, a ridesharing app company, the CEO of the company has given a new assignment. The purpose of the assignment is to create a summary DataFrame of ride-sharing data by city type and to create a multiple-line graph showing the total weekly fares for each city type.
+As a data analyst for Pyber, a ridesharing app company, the CEO of the company has given us a new assignment. The purpose of the assignment is to create a summary DataFrame of ride-sharing data by city type and to create a multiple-line graph showing the total weekly fares for each city type.
 
 ## Results
 
@@ -15,7 +15,7 @@ From the Total fare by City type per week chart, the results are from January 1,
 
 ## Summary
 
-Three business recommendations
+### Three business recommendations
 1. Based on the fact that the rural total fares and total rides are the lowest of all city types, there may not be enough incentive for people to ride taxis in rural cities. One business recommendation could be increasing the incentive for people to take the taxis, for example, getting a discount coupon on subsequent rides after their first ride, as well as a referral program and contest for referrals to Pyber.
 2. Urban cities is the only area where total amount of drivers is greater than the amount of rides. That could mean there are too many drivers for the demand. A business recommendation would be to cut some drivers and therefore lowering overhead costs for the company.
 3. Based on the chart for total fare by city type per week, a business recommendation would be to target the weeks with the dips and lowest amount of fares and increase promotions, deals, and offers to incentivize people to ride.
