@@ -15,11 +15,13 @@ From the summary data frame above, we can see that the data is broken down into 
 ### Multiple-line Chart
 ![image](https://user-images.githubusercontent.com/108503112/192298723-32b62b54-16f5-40c6-b903-e169d0a029d5.png)
 
-From the Total fare by City type per week chart, the results are from January 1, 2019 to April 28, 2019. We can see the points in time where there have been less total fares.
+From the Total fare by City type per week chart, we can see that the timeframe of the results are from January 1, 2019 to April 28, 2019 along the x-axis, and along the y-axis are the total fares in $USD. With this multiple-line chart, we can see the points in time where there were peaks and dips in fares for each type of city based on the different line colors, with yellow being urban, red being suburban, and blue being rural. Overall, we can see that urban fares are the highest across all points in time, while suburban is the 2nd highest, and rural being the lowest in total fares. With both urban and suburban, we can see the highest fare amount being sometime in the last weeks of February while for rural, the highest fare amount peak was at the start of April. For urban and suburban, we can see that the lowest fare amounts are both at the start of January, while for rural, the lowest point in time was at the first few weeks of January.
 
 ## Summary
 
 ### Three business recommendations
 1. Based on the fact that the rural total fares and total rides are the lowest of all city types, there may not be enough incentive for people to ride taxis in rural cities. One business recommendation could be increasing the incentive for people to take the taxis, for example, getting a discount coupon on subsequent rides after their first ride, as well as a referral program and contest for referrals to Pyber.
+
 2. Urban cities is the only area where total amount of drivers is greater than the amount of rides. That could mean there are too many drivers for the demand. A business recommendation would be to cut some drivers and therefore lowering overhead costs for the company.
+
 3. Based on the chart for total fare by city type per week, a business recommendation would be to target the weeks with the dips and lowest amount of fares and increase promotions, deals, and offers to incentivize people to ride.
