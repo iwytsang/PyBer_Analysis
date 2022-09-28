@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-As a data analyst for Pyber, a ridesharing app company, the CEO of the company has given us a new assignment. The purpose of the assignment is to create a summary DataFrame of ride-sharing data by city type and to create a multiple-line graph showing the total weekly fares for each city type. Our analysis can allow PyBer to make business decisions based on the differences between the data by each city type (urban, suburban, and rural).
+PyBer is a ridesharing app company and the CEO of the company has given us a new assignment. Since we are a data analyst at Pyber, the purpose of our assignment is to use Python to create a summary DataFrame of ride-sharing data by city type and Matploblib to create a multiple-line graph showing the total weekly fares for each city type. Our analysis can allow PyBer to make business decisions based on the differences between the data by each city type (urban, suburban, and rural).
 
 ## Results
 
